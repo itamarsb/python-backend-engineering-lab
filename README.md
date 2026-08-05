@@ -411,11 +411,13 @@ The focus is not only on application code, but also on the complete engineering 
 
 ---
 
+
 ## Roadmap
 
 Detailed laboratory scope, planned technologies, and implementation progress are available in:
 
-- [ROADMAP.md](ROADMAP.md)
+- [ROADMAP.md](roadmap.md)
+
 
 ---
 
